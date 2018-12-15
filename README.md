@@ -1,6 +1,6 @@
 # Baka
 
-Set of Packages to help any team develop faster web application
+Set of Packages to help any team develop faster SaaS Web Application
 
 ### COMPONENTS
 
