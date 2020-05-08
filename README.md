@@ -1,6 +1,6 @@
-# [Baka](github.com/bakaphp)
+# [Baka](https://github.com/bakaphp)
 
-Set of Packages to help any team develop faster SaaS Web Application
+Set of Packages to help any team develop faster development based on PhalconPHP
 
 ### COMPONENTS
 
